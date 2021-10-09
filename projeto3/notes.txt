@@ -1,0 +1,9 @@
+criando projeto 
+npx create-react-app gallery --template typescript
+
+dependências
+npm install styled-components
+npm install -D @types/styled-components
+npm install uuid
+npm install -D @types/uuid
+npm install firebase
