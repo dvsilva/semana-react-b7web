@@ -1,0 +1,6 @@
+criando projeto 
+npx create-react-app rpg --template typescript
+
+dependências
+npm install styled-components
+npm install -D @types/styled-components
